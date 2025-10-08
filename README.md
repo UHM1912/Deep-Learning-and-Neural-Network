@@ -1,28 +1,32 @@
-📂 Machine Learning & Deep Learning Lab Programs
+#  Deep Learning Lab Programs
 
-This repository contains various implementations of Machine Learning (ML) and Deep Learning (DL) models on different datasets as part of lab exercises. Each program demonstrates a specific concept or algorithm with practical applications.
+This repository contains various implementations of  Deep Learning (DL) models on different datasets as part of lab exercises. Each program demonstrates a specific concept or algorithm with practical applications.
 
-📜 Repository Structure & Descriptions
+## Repository Structure & Descriptions
 
-1️⃣ Artificial Neural Network (ANN) on Insurance Data
+ Artificial Neural Network (ANN) on Insurance Data
 
+- ## Task:
+Implemented an ANN model for predicting charges on the Insurance dataset.
 
-
-Task: Implemented an ANN model for predicting charges on the Insurance dataset.
-
-Details:
+- ## Details:
 
 Preprocessing: Encoding categorical features, scaling numerical data.
 
-Model: ANN with multiple dense layers.
+- ## Model:
+ANN with multiple dense layers.
 
-Loss Function: MSE (Regression task).
+- ## Loss Function:
+  MSE (Regression task).
 
-Optimizer: Adam.
+- ## Optimizer:
+Adam.
 
-Evaluation: MSE, MAE, and R² score.
+- ## Evaluation:
+MSE, MAE, and R² score.
 
-Objective: Understand the basics of ANN for regression tasks.
+- ## Objective: 
+Understand the basics of ANN for regression tasks.
 
 2️⃣ ANN Model for Regression (Boston Housing Data)
 
