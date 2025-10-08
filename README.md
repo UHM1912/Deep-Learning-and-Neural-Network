@@ -55,105 +55,111 @@ RMSE, R² score.
 - ### Objective:
 Gain experience with regression modeling using deep learning.
 
-### 3️) Perceptron Learning Rule with Different Activation Functions
+## 3️) Perceptron Learning Rule with Different Activation Functions
 
 
-Task:
+### Task:
 Implemented the Perceptron learning algorithm on the Insurance dataset with different activation functions like:
 
-Step Function
+- Step Function
 
-Sigmoid
+- Sigmoid
 
-Tanh
+- Tanh
 
-Objective: Compare how different activation functions affect the perceptron model's performance.
+### Objective: Compare how different activation functions affect the perceptron model's performance.
 
-4️⃣ MLP with Dropout and Batch Normalization (PCOS Dataset)
-
-
-Task: Designed and trained a Multi-Layer Perceptron (MLP) for classification on the PCOS dataset with:
-
-Dropout layers to prevent overfitting.
-
-Batch Normalization to stabilize training.
-
-Metrics: Accuracy, Precision, Recall, F1-score.
-
-Objective: Learn regularization techniques in deep learning.
-
-5️⃣ Convolution Operations & Feature Map Analysis (CIFAR-10 Dataset)
+## 4) MLP with Dropout and Batch Normalization (PCOS Dataset)
 
 
-Task:
+### Task:
+Designed and trained a Multi-Layer Perceptron (MLP) for classification on the PCOS dataset with:
 
-Implemented basic convolution operations from scratch.
+-Dropout layers to prevent overfitting.
 
-Visualized feature maps to analyze what CNN filters learn.
+-Batch Normalization to stabilize training.
 
-Dataset: CIFAR-10 (Image classification dataset).
+-Metrics: Accuracy, Precision, Recall, F1-score.
 
-Objective: Understand how convolution layers extract features in image data.
+### Objective: Learn regularization techniques in deep learning.
 
-6️⃣ LSTM Model on Daily Delhi Climate Data
-
-
-
-Task: Built an LSTM (Long Short-Term Memory) model for time series forecasting of Daily Delhi Climate data.
-
-Objective:
-
-Learn sequential modeling with LSTMs.
-
-Predict future temperature values based on past data.
-
-7️⃣ GRU Model on Air Passengers Data
+## 5) Convolution Operations & Feature Map Analysis (CIFAR-10 Dataset)
 
 
-Task: Implemented a GRU (Gated Recurrent Unit) model for Air Passengers dataset to predict passenger traffic.
+### Task:
 
-Objective: Compare GRU performance with LSTM for time series forecasting tasks.
+- Implemented basic convolution operations from scratch.
 
-🛠️ Tools & Libraries Used
+- Visualized feature maps to analyze what CNN filters learn.
 
-Programming Language: Python
+### Dataset:
+CIFAR-10 (Image classification dataset).
 
-Libraries:
+### Objective:
+Understand how convolution layers extract features in image data.
 
-numpy, pandas, matplotlib, seaborn for data handling & visualization
+## 6) LSTM Model on Daily Delhi Climate Data
 
-scikit-learn for preprocessing & evaluation
 
-tensorflow, keras, pytorch (if used) for deep learning models
 
-📊 Key Learning Outcomes
+### Task: Built an LSTM (Long Short-Term Memory) model for time series forecasting of Daily Delhi Climate data.
 
-Implemented different ML & DL algorithms for regression, classification, and time series forecasting tasks.
+### Objective:
 
-Understood the role of activation functions, dropout, batch normalization, and convolution layers.
+-Learn sequential modeling with LSTMs.
 
-Worked with real-world datasets for practical applications.
+-Predict future temperature values based on past data.
 
-Gained hands-on experience with feature engineering, model training, and evaluation metrics.
+## 7) GRU Model on Air Passengers Data
 
-📁 Datasets Used
 
-Insurance Dataset (Regression)
+### Task: 
+Implemented a GRU (Gated Recurrent Unit) model for Air Passengers dataset to predict passenger traffic.
 
-Boston Housing Dataset (Regression)
+### Objective: 
+Compare GRU performance with LSTM for time series forecasting tasks.
 
-PCOS Dataset (Classification)
+## Tools & Libraries Used
 
-CIFAR-10 Dataset (Image Classification)
+## Programming Language:
+- Python
 
-Daily Delhi Climate Dataset (Time Series)
+## Libraries:
 
-Air Passengers Dataset (Time Series)
+-numpy, pandas, matplotlib, seaborn for data handling & visualization
 
-📌 Future Scope
+-scikit-learn for preprocessing & evaluation
 
-Hyperparameter tuning for better accuracy.
+-tensorflow, keras, pytorch (if used) for deep learning models
 
-Experimenting with advanced architectures (e.g., ResNet, Transformers).
+# Key Learning Outcomes
 
-Deployment of trained models as web apps or APIs.
+- Implemented different ML & DL algorithms for regression, classification, and time series forecasting tasks.
+
+- Understood the role of activation functions, dropout, batch normalization, and convolution layers.
+
+- Worked with real-world datasets for practical applications.
+
+- Gained hands-on experience with feature engineering, model training, and evaluation metrics.
+
+# Datasets Used
+
+- Insurance Dataset (Regression)
+
+- Boston Housing Dataset (Regression)
+
+- PCOS Dataset (Classification)
+
+- CIFAR-10 Dataset (Image Classification)
+
+- Daily Delhi Climate Dataset (Time Series)
+
+- Air Passengers Dataset (Time Series)
+
+# Future Scope
+
+- Hyperparameter tuning for better accuracy.
+
+- Experimenting with advanced architectures (e.g., ResNet, Transformers).
+
+- Deployment of trained models as web apps or APIs.
