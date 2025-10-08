@@ -75,11 +75,11 @@ Implemented the Perceptron learning algorithm on the Insurance dataset with diff
 ### Task:
 Designed and trained a Multi-Layer Perceptron (MLP) for classification on the PCOS dataset with:
 
--Dropout layers to prevent overfitting.
+- Dropout layers to prevent overfitting.
 
--Batch Normalization to stabilize training.
+- Batch Normalization to stabilize training.
 
--Metrics: Accuracy, Precision, Recall, F1-score.
+- Metrics: Accuracy, Precision, Recall, F1-score.
 
 ### Objective: 
 Learn regularization techniques in deep learning.
