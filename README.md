@@ -81,7 +81,8 @@ Designed and trained a Multi-Layer Perceptron (MLP) for classification on the PC
 
 -Metrics: Accuracy, Precision, Recall, F1-score.
 
-### Objective: Learn regularization techniques in deep learning.
+### Objective: 
+Learn regularization techniques in deep learning.
 
 ## 5) Convolution Operations & Feature Map Analysis (CIFAR-10 Dataset)
 
