@@ -4,54 +4,62 @@ This repository contains various implementations of  Deep Learning (DL) models o
 
 ## Repository Structure & Descriptions
 
- Artificial Neural Network (ANN) on Insurance Data
+ ## 1) Artificial Neural Network (ANN) on Insurance Data
 
-- ## Task:
+- ### Task:
 Implemented an ANN model for predicting charges on the Insurance dataset.
 
-- ## Details:
+- ### Details:
 
 Preprocessing: Encoding categorical features, scaling numerical data.
 
-- ## Model:
+- ### Model:
 ANN with multiple dense layers.
 
-- ## Loss Function:
+- ### Loss Function:
   MSE (Regression task).
 
-- ## Optimizer:
+- ### Optimizer:
 Adam.
 
-- ## Evaluation:
+- ### Evaluation:
 MSE, MAE, and R² score.
 
-- ## Objective: 
+- ### Objective: 
 Understand the basics of ANN for regression tasks.
 
-2️⃣ ANN Model for Regression (Boston Housing Data)
+## 2)  ANN Model for Regression (Boston Housing Data)
 
 
 
-Task: Built an ANN model to predict house prices using the Boston Housing dataset.
+- ### Task:
+Built an ANN model to predict house prices using the Boston Housing dataset.
 
-Details:
+- ### Details:
 
-Data Preprocessing: Feature scaling using StandardScaler.
+- ### Data Preprocessing: 
+Feature scaling using StandardScaler.
 
-ANN Architecture: Input → Hidden layers → Output.
+- ### ANN Architecture:
+Input → Hidden layers → Output.
 
-Activation: ReLU, Linear.
+- ### Activation: 
+ReLU, Linear.
 
-Loss Function: MSE.
+- ### Loss Function:
+MSE.
 
-Evaluation: RMSE, R² score.
+- ### Evaluation: 
+RMSE, R² score.
 
-Objective: Gain experience with regression modeling using deep learning.
+- ### Objective:
+Gain experience with regression modeling using deep learning.
 
-3️⃣ Perceptron Learning Rule with Different Activation Functions
+### 3️) Perceptron Learning Rule with Different Activation Functions
 
 
-Task: Implemented the Perceptron learning algorithm on the Insurance dataset with different activation functions like:
+Task:
+Implemented the Perceptron learning algorithm on the Insurance dataset with different activation functions like:
 
 Step Function
 
